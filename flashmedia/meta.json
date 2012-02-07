@@ -1,0 +1,8 @@
+{
+    "name" : "Flashmedia",
+    "version" : 1,
+    "required emesene version" : "2.12.2",
+    "configurable" : false,
+    "description" : "Playing flash video",
+    "authors" : [["James Axl", "axlrose11@gmail.com"]]
+}
